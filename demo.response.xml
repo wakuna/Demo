@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<journey_search_result xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <journey season="2014" imprimatur="2013-08-06" destinations="z13627 z10367 z722 z10365 z9663 z11154 z9662 z10366 z7581 z9661 z1569 z10364 z11153 z5647 z11148 z4044" available="1" group="studienreisen" product="Studienreise" organiser="ST" id="o526090">
+        <variant price-min="3395" duration="22" dates-count="13" dates-available="5" default="1" available="1" code="4203" id="v1573454">
+            <title>Iran</title>
+            <subtitle>die umfassende Reise</subtitle>
+            <feature>Unsere umfassendste Studienreise durch den Iran, teils längere Fahrstrecken auf gut ausgebauten Straßen</feature>
+            <usp>Eins ausführliche Studienreise durch den Iran mit den Höhepunkten Isfahan, Schiras, Persepolis sowie Abstechern ans Kaspische Meer, in die Provinz Aserbaidschan und in die Oasenstadt Bam.</usp>
+            <program>
+                <value>Iran - die umfassende Reise</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <image name="526090-401841-87384.jpg"/>
+                <image name="526090-401856-87381.jpg"/>
+                <map name="526090-4203-87374.gif"/>
+                <image name="526090-920311-87378.jpg" default="1"/>
+            </media>
+        </variant>
+    </journey>
+    
+    <journey season="2014" imprimatur="2013-09-16" destinations="z7182 z10701 z5522 z722 z12899 z9346 z13626 z6681 z2982 z9903 z1642 z7121 z7581 z1424 z12223 z10702 z9347 z131 z749" new="1" available="1" group="studienreisen" product="PreisWert-Studienreise" organiser="ST" id="o522993">
+        <variant price-min="1185" duration="9" dates-count="6" dates-available="3" default="1" available="1" code="3031" id="v1644869">
+            <title>Marokko</title>
+            <subtitle>zum Kennenlernen</subtitle>
+            <feature>Begegnung mit Einheimischen in einer Kasbah</feature>
+            <usp>Intensiv und in kurzer Zeit erleben Sie bei unserer preisgünstigsten Rundreise durch Marokko die ganze Vielfalt des westlichsten orientalischen Landes.</usp>
+            <program>
+                <value>Marokko - zum Kennenlernen</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <map name="522993-3031-85313.gif"/>
+                <image name="522993-300790-85320.jpg"/>
+                <image name="522993-300222-85317.jpg" default="1"/>
+                <image name="522993-200012-85323.jpg"/>
+            </media>
+        </variant>
+    </journey>
+        
+    <journey prior="o485124" season="2014" imprimatur="2013-08-02" destinations="z5522 z10701 z722 z9346 z13626 z2982 z7122 z1642 z12324 z1424 z4202 z9347 z131 z749" available="1" group="entdecker" product="Entdeckerreise" organiser="MP" id="o534287">
+        <variant price-min="1109" duration="10" dates-count="5" dates-available="4" default="1" available="1" code="3040" id="v1641403">
+            <title>Marokko</title>
+            <subtitle>Lebendiger Orient am Rande Europas</subtitle>
+            <usp>Zehn Tage Orient pur in Marokko: Folgen Sie Ihrem Marco Polo Scout von Tanger in die Königsstadt Fes und weiter bis an den Rand der Sahara und nach Marrakesch.</usp>
+            <program>
+                <value>Marokko - Lebendiger Orient am Rande Europas</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <image name="534287-600863-93023.jpg" default="1"/>
+                <image name="534287-918169-93032.jpg"/>
+                <map name="534287-3040-86050.gif"/>
+                <image name="534287-600859-93026.jpg"/>
+                <image name="534287-901407-93029.jpg"/>
+            </media>
+        </variant>
+        <ratings rate="0.6103896" import="2013-12-21" season="2013">
+            <rating rid="1" label="Weiterempfehlung dieser Reise" value="0.9347826"/>
+            <rating rid="2" label="Den Anbieter Studiosus können weiterempfehlen" value="0.9130435"/>
+            <rating rid="3" label="Reiseverlauf" value="0.9694686"/>
+            <rating rid="5" label="Studiosus-Reiseleitung" value="0.93805444"/>
+            <rating rid="6" label="Hotels" value="0.653515"/>
+            <rating rid="7" label="Flugkomfort" value="0.5135135"/>
+            <rating rid="8" label="Buskomfort" value="0.9347826"/>
+        </ratings>
+    </journey>
+        
+    <journey prior="o496797" season="2014" imprimatur="2013-08-03" destinations="z9087 z13627 z166 z7804 z9082 z4682 z1121 z9088 z4266 z8642 z8643 z1123 z4202 z760 z8661 z1122 z9085 z1124 z4041 z27 z1062 z1378 z8108 z1154" available="1" group="studienreisen" product="Studienreise" organiser="ST" id="o522271">
+        <variant price-min="5790" duration="20" dates-count="6" dates-available="2" default="1" available="1" code="6608" id="v1543362">
+            <title>Chile - Bolivien - Peru</title>
+            <subtitle>Naturwunder der Anden</subtitle>
+            <feature>Auf spektakulärer Route von Chile über die Anden nach Bolivien und Peru</feature>
+            <usp>20-tägige Studienreise zu den spektakulärsten Höhepunkten der Anden: Salzsee von Uyuni, Atacamawüste, Machu Picchu und der Titicacasee. Mit Übernachtungen auf der Sonneninsel und in einem Hotel aus Salz.</usp>
+            <program>
+                <value>Chile - Bolivien - Peru - Naturwunder der Anden</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <image name="522271-914429-85115.jpg"/>
+                <image name="522271-920089-85118.jpg"/>
+                <image name="522271-916216-85109.jpg" default="1"/>
+                <image name="522271-920441-85112.jpg"/>
+                <map name="522271-6608-85103.gif"/>
+            </media>
+        </variant>
+        <ratings rate="0.6698113" import="2013-12-06" season="2013">
+            <rating rid="1" label="Weiterempfehlung dieser Reise" value="0.95714283"/>
+            <rating rid="2" label="Den Anbieter Studiosus können weiterempfehlen" value="0.95714283"/>
+            <rating rid="3" label="Reiseverlauf" value="0.97763723"/>
+            <rating rid="5" label="Studiosus-Reiseleitung" value="1.0"/>
+            <rating rid="6" label="Hotels" value="0.97048455"/>
+            <rating rid="7" label="Flugkomfort" value="0.79710144"/>
+            <rating rid="8" label="Buskomfort" value="0.87142855"/>
+        </ratings>
+    </journey>
+        
+    <journey prior="o490187" season="2014" imprimatur="2013-08-26" destinations="z1400 z7181 z10264 z7721 z443 z13626 z10266 z301 z85 z10261 z8101 z10265 z10262 z10263 z7802" available="1" group="studienreisen" product="Studienreise" organiser="ST" id="o524385">
+        <variant price-min="1345" novice="1" duration="8" dates-count="9" dates-available="2" default="1" available="1" code="0101" id="v1555831">
+            <title>Griechenland</title>
+            <subtitle>Höhepunkte</subtitle>
+            <feature>Unsere traditionsreichste Studienreise nach Griechenland</feature>
+            <usp>In 8 Tagen zeigen wir Ihnen bei dieser Studienreise die bekanntesten Zeugnisse des klassischen Altertums und das moderne griechische Leben. Sie werden sehen: Griechenland ist viel mehr als Sirtaki, Tsatsiki, Tempel und Orakel!</usp>
+            <program>
+                <value>Griechenland - Höhepunkte</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <image name="524385-501427-96972.jpg"/>
+                <map name="524385-0101-90863.gif"/>
+                <image name="524385-500247-91377.jpg"/>
+                <image name="524385-919817-91371.jpg" default="1"/>
+            </media>
+        </variant>
+        <ratings rate="0.6933333" import="2013-12-04" season="2013">
+            <rating rid="1" label="Weiterempfehlung dieser Reise" value="0.9411765"/>
+            <rating rid="2" label="Den Anbieter Studiosus können weiterempfehlen" value="0.9"/>
+            <rating rid="3" label="Reiseverlauf" value="0.97577685"/>
+            <rating rid="5" label="Studiosus-Reiseleitung" value="0.9652338"/>
+            <rating rid="6" label="Hotels" value="0.94056374"/>
+            <rating rid="7" label="Flugkomfort" value="0.88235295"/>
+            <rating rid="8" label="Buskomfort" value="0.9423077"/>
+        </ratings>
+    </journey>
+    
+    <journey season="2014" imprimatur="2013-09-16" destinations="z65 z7182 z12899 z681 z13626 z4982 z5622 z301 z7581 z5621 z1077 z9413 z5648" new="1" available="1" group="studienreisen" product="PreisWert-Studienreise" organiser="ST" id="o522992">
+        <variant price-min="1195" duration="8" dates-count="5" dates-available="2" default="1" available="1" code="0932" id="v1547637">
+            <title>Andalusien</title>
+            <subtitle>im Überblick</subtitle>
+            <feature>Die bekanntesten Sehenswürdigkeiten Andalusiens in acht Tagen</feature>
+            <usp>Andalusien kompakt! Acht Tage lang nimmt Ihr Studiosus-Reiseleiter Sie mit in die Welt des ursprünglichen Spaniens - von der Alhambra in Granada bis in die Altstadt von Sevilla.</usp>
+            <program>
+                <value>Andalusien - im Überblick</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+            </arrival>
+            <media>
+                <image name="522992-924871-94928.jpg" default="1"/>
+                <map name="522992-0932-93976.gif"/>
+                <image name="522992-901840-94088.jpg"/>
+                <image name="522992-915958-94085.jpg"/>
+            </media>
+        </variant>
+    </journey>
+        
+    <journey season="2014" destinations="z7232 z12899 z418 z4782 z13626 z4270 z105 z301" new="1" available="1" group="kultimer" product="Eventreise" organiser="ST" id="o551893">
+        <variant price-min="1595" duration="8" dates-count="2" dates-available="2" default="1" available="1" code="04N8G" id="v1812704">
+            <title>Antike am Golf von Neapel</title>
+            <usp>8 Tage Süditalien mit kultimer: Schon die alten Römer wussten, wo es schön ist - und auch wir erliegen dem Charme Sorrents und der Amalfiküste.</usp>
+            <program>
+                <value>Antike am Golf von Neapel</value>
+            </program>
+            <arrival>
+                <value>Fluganreise</value>
+                <description>Fluganreise - 8 Tage</description>
+            </arrival>
+            <lodging>
+                <value>Zimmer zur Landseite</value>
+            </lodging>
+            <media>
+                <image name="551893-801927-105185.jpg"/>
+                <image name="551893-912927-105187.jpg" default="1"/>
+                <image name="551893-915837-105186.jpg"/></media>
+            <summary to="2014-10-13" from="2014-09-29" available="2" count="2">
+                <year name="2014" available="2" count="2">2014</year>
+                <month name="2014-09" available="1" count="1">September 2014</month>
+                <month name="2014-10" available="1" count="1">Oktober 2014</month>
+            </summary>
+        </variant>
+    </journey>
+    
+</journey_search_result>
