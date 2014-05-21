@@ -5,6 +5,7 @@
    - John Doe
    - Jan Wisniewski
  resources:
+   - /xml/journey.xml
    - /test.js
    - /test.css
  normalize_css: no
