@@ -1,0 +1,26 @@
+.slider{height: 300px;}
+.slider h5{float: left;}
+.slider a.more{float: right;}
+.slider h3 .title {
+  font: bold 13px Verdana;
+  color: #333;
+}
+.slider h3 .subtitle,
+.slider h3 .program,
+.slider h3 .identification{
+  font: 13px Verdana;
+  color: #333;
+  line-height: 19px;
+  display:block;
+}
+
+.slider-content {height: 200px; display: block; clear:both}
+
+
+.slider  a.control,
+.slider  ul
+{
+    float: left;
+}
+
+.slider ul li {float: left; display: inline; width: 200px;}
